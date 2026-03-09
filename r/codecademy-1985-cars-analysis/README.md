@@ -15,3 +15,13 @@ Concepts practiced:
 The notebook loads a dataset of cars from 1985, performs several
 data cleaning steps, and explores the data by filtering and
 ranking vehicles based on fuel efficiency and engine size.
+
+## Dataset
+
+The analysis uses the "Automobile (1985)" dataset from the
+UCI Machine Learning Repository.
+
+https://archive.ics.uci.edu/ml/datasets/Automobile
+
+The dataset used in this exercise was adapted by Codecademy
+and provided as `cars85.csv` in the course environment.
