@@ -1,0 +1,13 @@
+# Magic 8-Ball – Random Responses
+
+Python exercise from Codecademy.
+
+Concepts practiced:
+- importing modules (random)
+- generating random integers
+- conditional logic (if/else)
+- match–case statements
+- basic program flow
+
+The script simulates a Magic 8-Ball toy that answers yes/no
+questions with a randomly selected response.
