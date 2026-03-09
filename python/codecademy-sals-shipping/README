@@ -1,0 +1,12 @@
+# Sal's Shipping – Conditional Logic
+
+Python exercise from Codecademy.
+
+Concepts practiced:
+- if / elif / else statements
+- conditional branching based on weight
+- basic arithmetic calculations
+- comparing different pricing schemes
+
+The program calculates shipping costs for ground shipping,
+ground premium shipping, and drone shipping based on package weight.
