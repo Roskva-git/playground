@@ -1,0 +1,17 @@
+# Explore the 1985 Cars Dataset
+
+R data analysis exercise based on a dataset from the UCI Machine Learning Repository.
+
+Concepts practiced:
+- loading data with readr
+- inspecting datasets
+- data cleaning and column selection
+- renaming variables
+- creating derived variables with mutate
+- filtering rows
+- sorting data with arrange
+- simple exploratory analysis using dplyr
+
+The notebook loads a dataset of cars from 1985, performs several
+data cleaning steps, and explores the data by filtering and
+ranking vehicles based on fuel efficiency and engine size.
