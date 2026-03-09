@@ -1,0 +1,16 @@
+# Lovely Loveseats – Receipt Generator
+
+Python exercise from Codecademy.
+
+Concepts practiced:
+- variables and string concatenation
+- basic arithmetic calculations
+- simple itemization of purchases
+- sales tax calculation
+- importing and using the datetime module
+- formatted output
+
+The script simulates a simple receipt generator for a small
+furniture store. It stores product descriptions and prices,
+adds selected items to a customer's purchase, calculates tax,
+and prints a formatted receipt.
