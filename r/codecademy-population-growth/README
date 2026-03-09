@@ -1,0 +1,15 @@
+# Population Growth Calculation in R
+
+R exercise from Codecademy exploring basic R syntax and functions.
+
+Concepts practiced:
+- defining functions in R
+- arithmetic operations
+- working with variables
+- string construction using paste()
+- returning values from a function
+
+The script calculates population growth between two years and
+estimates the average annual growth rate of a city's population.
+The example used in the exercise analyzes population change in
+Istanbul between historical census years.
