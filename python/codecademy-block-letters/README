@@ -1,0 +1,16 @@
+# Block Letters – ASCII Art
+
+Python exercise from Codecademy.
+
+Concepts practiced:
+- dictionaries
+- lists and nested lists
+- for loops
+- conditional checks
+- string iteration
+- formatted text output
+
+The script creates block-letter ASCII art by storing letter patterns
+in a dictionary and printing them line by line for each character in
+a name. This version includes support for some extended characters
+such as Ø and Ó.
